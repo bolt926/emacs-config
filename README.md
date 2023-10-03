@@ -5,7 +5,7 @@
     -  LSP Mode
     -  LSP UI
     -  DOOM Emacs Themes
-    -   Company Mode
+    -  Company Mode
     -  Treemacs
     -  SLY
     
